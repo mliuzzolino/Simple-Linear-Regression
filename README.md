@@ -5,6 +5,8 @@ This script is a simple linear regression that optimizes the b0 and b1 parameter
 
 The sample data is found within /data/ directory. 
 
+The result is a plot showing the line of best fit (blue dotted line) alongside the data points (red dots) used to construct the line.
+
 ## Running the script
 Load desired csv file into /data/ directory; ensure the csv file is named "input.csv". 
 
